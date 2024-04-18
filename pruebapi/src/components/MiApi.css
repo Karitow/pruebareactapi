@@ -1,0 +1,28 @@
+.card {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    justify-content: center;
+    text-align: center;
+    background-image: url(https://th.bing.com/th/id/OIP.LZnSipV3JeBhoeZKU-C_hwHaFj?w=251&h=188&c=7&r=0&o=5&pid=1.7);
+}
+
+.card-img-top {
+    width:434px;
+    height:300px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.card-title{
+    color:blue;
+}
+
+.card-text{
+    color:green;
+}
+
+.card-body{
+    background-color: rgb(106, 143, 185);
+}
